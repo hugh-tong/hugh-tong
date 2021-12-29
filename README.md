@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on OpenFOAM 
+- 🌱 I’m currently learning CFD and C++
+- ⚡ I’m currently making project about Direct Numerical Simulation using FVM
+
+
+🥳 Personal github stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hugh-tong&show_icons=true&theme=synthwave)
