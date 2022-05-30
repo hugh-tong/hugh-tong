@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on OpenFOAM 
 - 🌱 I’m currently learning CFD and C++
-- ⚡ I’m currently making project about Direct Numerical Simulation using FVM
 
 
 🥳**Personal github stats**
