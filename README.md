@@ -2,14 +2,18 @@
 
 
 <p align="center">
-  <img src="./ttttheP.jpg" alt="ttttheP" />
+  <!-- width="300" 控制大小，align="center" 控制居中 -->
+  <img src="./lalala.gif" alt="llala" width="300" />
   <br>
-  <em>tttt, a lying-flat penguin dreaming of BBQ under the starry night</em>
+  <!-- 题注 -->
+  <em style="color: gray;">tttt, a lying-flat penguin dreaming of BBQ under the starry sky</em>
 </p>
-
 
 <!--
 **hugh-tong/hugh-tong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### About me
 
 Here are some ideas to get you started:
 
