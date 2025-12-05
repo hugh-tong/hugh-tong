@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<p align="center">
+  <img src="./ttttheP.jpg" alt="ttttheP" />
+  <br>
+  <em>tttt, a lying-flat penguin dreaming of BBQ under the starry night</em>
+</p>
+
+
 <!--
 **hugh-tong/hugh-tong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +36,6 @@ Here are some ideas to get you started:
 ### End
 
 
-![llala](lalala.gif)
+<div style="text-align: center;">
+  <img src="./lalala.gif" alt="llala" />
+</div>
